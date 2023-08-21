@@ -1,0 +1,9 @@
+[submodule "EzPC"]
+	path = EzPC
+	url = https://github.com/John-Katis/EzPC.git
+[submodule "Pika/libPSI"]
+	path = Pika/libPSI
+	url = https://github.com/John-Katis/libPSI.git
+[submodule "Pika/falcon-public"]
+	path = Pika/falcon-public
+	url = https://github.com/John-Katis/falcon-public.git
